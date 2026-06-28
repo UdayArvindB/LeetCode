@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/UdayArvindB/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdayArvindB/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0686-repeated-string-match](https://github.com/UdayArvindB/LeetCode/tree/master/0686-repeated-string-match) |
 ## Array
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdayArvindB/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/UdayArvindB/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
