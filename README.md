@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/UdayArvindB/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/UdayArvindB/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/UdayArvindB/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
