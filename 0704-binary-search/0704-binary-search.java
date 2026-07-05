@@ -13,6 +13,6 @@ class Solution {
         if(nums[mid] < target){
             return binarySearch(nums, mid+1, right, target);
         }
-        return binarySearch(nums, left, right-1, target);
+        return binarySearch(nums, left, mid-1, target);
     }
 }
