@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/UdayArvindB/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayArvindB/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/UdayArvindB/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/UdayArvindB/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/UdayArvindB/LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/UdayArvindB/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
