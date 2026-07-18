@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UdayArvindB/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UdayArvindB/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayArvindB/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/UdayArvindB/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UdayArvindB/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/UdayArvindB/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayArvindB/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/UdayArvindB/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdayArvindB/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/UdayArvindB/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/UdayArvindB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/UdayArvindB/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/UdayArvindB/LeetCode/tree/master/0567-permutation-in-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdayArvindB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/UdayArvindB/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/UdayArvindB/LeetCode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
