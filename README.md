@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/UdayArvindB/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/UdayArvindB/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/UdayArvindB/LeetCode/tree/master/0994-rotting-oranges) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayArvindB/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/UdayArvindB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/UdayArvindB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayArvindB/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayArvindB/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UdayArvindB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdayArvindB/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/UdayArvindB/LeetCode/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayArvindB/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
