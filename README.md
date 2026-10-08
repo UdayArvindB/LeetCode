@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/UdayArvindB/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/UdayArvindB/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/UdayArvindB/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/UdayArvindB/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UdayArvindB/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/UdayArvindB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/UdayArvindB/LeetCode/tree/master/0686-repeated-string-match) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/UdayArvindB/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/UdayArvindB/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/UdayArvindB/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/UdayArvindB/LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/UdayArvindB/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/UdayArvindB/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/UdayArvindB/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
