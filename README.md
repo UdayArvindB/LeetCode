@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UdayArvindB/LeetCode/tree/master/0014-longest-common-prefix) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UdayArvindB/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
