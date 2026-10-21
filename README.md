@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UdayArvindB/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/UdayArvindB/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
@@ -341,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/UdayArvindB/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/UdayArvindB/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
